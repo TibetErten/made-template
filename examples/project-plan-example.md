@@ -1,22 +1,22 @@
-# Project Plan
+# Project plan
 
 ## Title
 <!-- Give your project a short title. -->
-Awesome MADE project.
+ Greenhouse Gas Emissions Analysis and Prediction
 
 ## Main Question
 
-<!-- Think about one main question you want to answer based on the data. -->
-1. Does writing an example question help students write better project plans?
+<!-- Think about one main question you want to answer based on the data. --
+Can we predict and analyze greenhouse gas emissions?
 
 ## Description
+I am planning to analyze the historical gas emissions data and gain insights about global emission trends.
 
-<!-- Describe your data science project in max. 200 words. Consider writing about why and how you attempt it. -->
-XY is an important problem, because... This projects analyzes XY, using method A. The results can give insights into...
+
 
 ## Datasources
 
-<!-- Describe each datasources you plan to use in a section. Use the prefic "DatasourceX" where X is the id of the datasource. -->
+World Bank and United Nations
 
 ### Datasource1: ExampleSource
 * Metadata URL: https://mobilithek.info/offers/-6901989592576801458
